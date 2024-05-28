@@ -5,14 +5,13 @@
 
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
+  background-color: #ffffff;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
 
 h1,
 h2,
@@ -24,7 +23,7 @@ p {
   margin: 0;
 }
 
-ul{
+ul {
   padding: 0;
   list-style: none;
 }
